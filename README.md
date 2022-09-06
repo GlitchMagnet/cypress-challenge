@@ -8,6 +8,7 @@
 
 ## Cypress Dashboard Results
 
+[![Cloudapp Challenge](https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/detailed/hnwe5w/master&style=plastic&logo=cypress)](https://dashboard.cypress.io/projects/hnwe5w/runs)
 https://dashboard.cypress.io/projects/hnwe5w/runs
 
 ## Prerequisites
