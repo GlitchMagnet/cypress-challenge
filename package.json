@@ -1,0 +1,24 @@
+{
+  "name": "cypress-challenge",
+  "version": "1.0.0",
+  "description": "cloudapp cypress challenge",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "npx cypress open",
+    "cy:run": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlitchMagnet/cypress-challenge.git"
+  },
+  "author": "Jacob Matini",
+  "license": "GNU General Public License v3.0",
+  "bugs": {
+    "url": "https://github.com/GlitchMagnet/cypress-challenge/issues"
+  },
+  "homepage": "https://github.com/GlitchMagnet/cypress-challenge#readme",
+  "devDependencies": {
+    "cypress": "^10.7.0",
+    "cypress-file-upload": "^5.0.8"
+  }
+}
